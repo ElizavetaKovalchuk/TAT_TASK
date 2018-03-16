@@ -1,0 +1,6 @@
+c:\users\елизавета\documents\visual studio 2013\Projects\DEV-2\DEV-2\bin\Debug\DEV-2.exe.config
+c:\users\елизавета\documents\visual studio 2013\Projects\DEV-2\DEV-2\bin\Debug\DEV-2.exe
+c:\users\елизавета\documents\visual studio 2013\Projects\DEV-2\DEV-2\bin\Debug\DEV-2.pdb
+c:\users\елизавета\documents\visual studio 2013\Projects\DEV-2\DEV-2\obj\Debug\DEV-2.csprojResolveAssemblyReference.cache
+c:\users\елизавета\documents\visual studio 2013\Projects\DEV-2\DEV-2\obj\Debug\DEV-2.exe
+c:\users\елизавета\documents\visual studio 2013\Projects\DEV-2\DEV-2\obj\Debug\DEV-2.pdb
