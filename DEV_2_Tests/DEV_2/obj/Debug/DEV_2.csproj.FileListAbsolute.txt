@@ -1,0 +1,24 @@
+c:\users\елизавета\documents\visual studio 2013\Projects\DEV_2\DEV_2\bin\Debug\DEV_2.exe.config
+c:\users\елизавета\documents\visual studio 2013\Projects\DEV_2\DEV_2\bin\Debug\DEV_2.exe
+c:\users\елизавета\documents\visual studio 2013\Projects\DEV_2\DEV_2\bin\Debug\DEV_2.pdb
+c:\users\елизавета\documents\visual studio 2013\Projects\DEV_2\DEV_2\obj\Debug\DEV_2.csprojResolveAssemblyReference.cache
+c:\users\елизавета\documents\visual studio 2013\Projects\DEV_2\DEV_2\obj\Debug\DEV_2.exe
+c:\users\елизавета\documents\visual studio 2013\Projects\DEV_2\DEV_2\obj\Debug\DEV_2.pdb
+c:\users\елизавета\documents\visual studio 2013\Projects\DEV_2\DEV_2\bin\Debug\EntityFramework.dll
+c:\users\елизавета\documents\visual studio 2013\Projects\DEV_2\DEV_2\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\елизавета\documents\visual studio 2013\Projects\DEV_2\DEV_2\bin\Debug\Newtonsoft.Json.dll
+c:\users\елизавета\documents\visual studio 2013\Projects\DEV_2\DEV_2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\елизавета\documents\visual studio 2013\Projects\DEV_2\DEV_2\bin\Debug\xunit.abstractions.dll
+c:\users\елизавета\documents\visual studio 2013\Projects\DEV_2\DEV_2\bin\Debug\xunit.core.dll
+c:\users\елизавета\documents\visual studio 2013\Projects\DEV_2\DEV_2\bin\Debug\xunit.execution.dotnet.dll
+c:\users\елизавета\documents\visual studio 2013\Projects\DEV_2\DEV_2\bin\Debug\EntityFramework.xml
+c:\users\елизавета\documents\visual studio 2013\Projects\DEV_2\DEV_2\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\елизавета\documents\visual studio 2013\Projects\DEV_2\DEV_2\bin\Debug\Newtonsoft.Json.xml
+c:\users\елизавета\documents\visual studio 2013\Projects\DEV_2\DEV_2\bin\Debug\xunit.abstractions.xml
+c:\users\елизавета\documents\visual studio 2013\Projects\DEV_2\DEV_2\bin\Debug\xunit.core.xml
+c:\users\елизавета\documents\visual studio 2013\Projects\DEV_2\DEV_2\bin\Debug\xunit.execution.dotnet.xml
+c:\users\елизавета\documents\visual studio 2013\Projects\DEV_2\DEV_2\bin\Debug\xunit.assert.dll
+c:\users\елизавета\documents\visual studio 2013\Projects\DEV_2\DEV_2\bin\Debug\xunit.assert.xml
+C:\Users\Елизавета\Desktop\DEV_2_Tests\DEV_2\bin\Debug\DEV_2.exe.config
+C:\Users\Елизавета\Desktop\DEV_2_Tests\DEV_2\obj\Debug\DEV_2.exe
+C:\Users\Елизавета\Desktop\DEV_2_Tests\DEV_2\obj\Debug\DEV_2.pdb
